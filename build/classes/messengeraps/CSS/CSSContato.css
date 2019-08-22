@@ -1,0 +1,7 @@
+.background {
+    -fx-background-color: transparent;
+}
+
+.background:hover {
+    -fx-background-color:#21222c;
+}

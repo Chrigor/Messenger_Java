@@ -1,0 +1,53 @@
+.telaPrincipal {
+    -fx-background-color: #333645;
+}
+
+.vboxScroll {
+    -fx-background-color: #333645;
+}
+
+.close {
+    -fx-fill: #fff;
+}
+
+.close:hover {
+    -fx-fill: #cc0000;
+}
+
+.textMensagem {
+    -fx-background-radius: 100;
+}
+
+.btSend {
+    -fx-background-color:#16171d;
+    -fx-text-fill: #3366ff;
+    -fx-background-radius: 100;
+}
+
+.btSend:hover {
+    -fx-background-color:#21222c; 
+}
+
+.char {
+	-fx-fill: #fff;
+}
+
+.char:hover {
+	-fx-fill: #3366ff;
+}
+
+.microphone {
+    -fx-fill: #21222c;
+}
+
+.microphone:hover {
+    -fx-fill: #cc0000;
+}
+
+.messenger {
+	-fx-background-color: #333645;
+}
+
+.mensagem {
+	-fx-background-color: transparent;
+}
